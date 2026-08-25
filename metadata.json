@@ -1,0 +1,6 @@
+{
+  "name": "QuickQR",
+  "description": "A minimal, modern dark-themed QR code generator with live preview, presets, color customization, and instant PNG downloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
